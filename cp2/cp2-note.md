@@ -1,0 +1,10 @@
+Cau1: A
+Cau2: C
+Cau3: A
+Cau4: A
+Cau5: D
+Cau6: A
+Cau7: B
+Cau8: B
+Cau9: A
+Cau10: A
